@@ -1,7 +1,7 @@
 /* eslint-disable import/extensions */
 import * as express from 'express';
 import errorMiddleware from './middleware/errorMiddleware';
-import leaderboardRouter from './routes/teamRouter';
+import leaderboardRouter from './routes/leaderboardRouter';
 import matchesRouter from './routes/matchesRouter';
 import teamRouter from './routes/teamRouter';
 import userRouter from './routes/userRouter';
