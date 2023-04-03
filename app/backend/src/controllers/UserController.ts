@@ -17,7 +17,6 @@ export default class UserControler implements IUserController {
   async login(req: Request, res: Response, next: NextFunction): Promise<Response | void> {
     try {
       const user = req.body;
-      console.log(req.body);
 
       // const validateUser = new Validations().login(user);
       // if (validateUser.message.includes('filled')) {
