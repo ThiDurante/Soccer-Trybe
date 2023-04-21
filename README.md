@@ -5,7 +5,7 @@ This is a fullstack project to control matches on a soccer championship.
 
 Here you can create, update and mark matches as finished, once the match is marked as finished the leaderboard updates to include the values of the match.
 
-Front-end was provided by trybe, but back-end was all built from scracth.
+Front-end was provided by trybe, back-end was all built from scracth.
 
 
 ## Install and Run
